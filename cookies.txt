@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ag.highradius.com	TRUE	/RRDMSProject	FALSE	1999999999	HRClanguagefilter	en
+ag.highradius.com	TRUE	/	FALSE	1999999999	JSESSIONID	881559F3EF837A3C409D42E5894E4FA7-n1
+ag.highradius.com	TRUE	/	FALSE	1999999999	SameSite	None
+
